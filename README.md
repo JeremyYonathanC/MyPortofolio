@@ -8,6 +8,8 @@ Hello my name is Jeremy Yonathan Chrisyanto. This the list of all the projects I
 
 - [pindia-fe](https://github.com/JeremyYonathanC/pindia-fe)
 
-- [vidly]()
+- [counter-app](https://github.com/JeremyYonathanC/counter-app)
 
-- [tokobedia]()
+- [vidly](https://github.com/JeremyYonathanC/vidly)
+
+- [vidly-api-node](https://github.com/JeremyYonathanC/vidly-api-node)
